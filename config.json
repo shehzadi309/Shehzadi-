@@ -3,8 +3,8 @@
 	"password": "",
 	"adminOnly": false,
 	"adminBot": ["61577803842496"],
-	"nickNameBot": "",
-	"prefix": "#",
+	"nickNameBot": "shehzadi",
+	"prefix": ".",
 	"database": {
 		"type": "local",
 		"uriMongodb": "",
